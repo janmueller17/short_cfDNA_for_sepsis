@@ -1,0 +1,45 @@
+name: short_cfDNA_for_sepsis
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - statsmodels
+  - bedtools
+  - deeptools
+  - r-base
+  - r-essentials
+  - r-ggplot2
+  - r-ggpubr
+  - r-ggridges
+  - r-dplyr
+  - r-tidyverse
+  - r-scales
+  - r-optparse
+  - bioconductor-edaseq
+  - r-data.table
+  - r-readr
+  - r-gplots
+  - r-corrplot
+  - r-rfast
+  - r-pals
+  - r-mass
+  - r-proc
+  - bioconductor-edger
+  - r-rcolorbrewer
+  - fastqc
+  - bbmap
+  - prinseq
+  - nextgenmap
+  - samtools
+  - macs2
+  - meme
+  - bioconductor-rtracklayer
+  - bioconductor-genomicranges
+  - bioconductor-brgenomics
